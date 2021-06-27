@@ -5,16 +5,9 @@
  * Description: Hwk 01 - StudentDriver
  * Date: June 7, 2021
  */
+package Homework.HW1;
 
 public class StudentDriver {
-
-    public String idNumber;
-    public String name;
-    public String major;
-
-    public String getMajor() {
-       return major;
-    }
 
     public static void main(String[] args) {
 
